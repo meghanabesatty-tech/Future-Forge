@@ -1,0 +1,9 @@
+{
+  "name": "Future Forge - Your AI Career Companion",
+  "description": "SkillBridge (Future Forge) - Next-generation AI-powered career companion featuring skill gap analysis, AI mock interviews, resume ATS analyzer, job opportunities, roadmaps, and government exam notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
